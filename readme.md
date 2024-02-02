@@ -41,7 +41,7 @@ Description: Treat yourself to moist and flavorful goodness with our freshly bak
 
 
 ## About the Authors
-<img src="ayban.jpeg" alt="Your Name" width="150" style="border-radius: 50%">
+<img src="https://avatars.githubusercontent.com/u/125982979?s=400&u=6412ec5c6fa2a1bc02037e706644eb1b2b2016d4&v=4" alt="Your Name" width="150" style="border-radius: 50%">
 
 **Name:** John Aivanne Molato
 
